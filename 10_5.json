@@ -1,0 +1,75 @@
+{
+  "makespan": 666,
+  "jobs_schedule": {
+    "Job_0": [
+      {"machine": 1, "start": 54, "end": 75},
+      {"machine": 0, "start": 104, "end": 157},
+      {"machine": 4, "start": 249, "end": 344},
+      {"machine": 3, "start": 344, "end": 399},
+      {"machine": 2, "start": 407, "end": 441}
+    ],
+    "Job_1": [
+      {"machine": 0, "start": 0, "end": 21},
+      {"machine": 3, "start": 69, "end": 121},
+      {"machine": 4, "start": 154, "end": 170},
+      {"machine": 2, "start": 381, "end": 407},
+      {"machine": 1, "start": 425, "end": 496}
+    ],
+    "Job_2": [
+      {"machine": 3, "start": 251, "end": 290},
+      {"machine": 4, "start": 448, "end": 546},
+      {"machine": 1, "start": 546, "end": 588},
+      {"machine": 2, "start": 616, "end": 647},
+      {"machine": 0, "start": 647, "end": 659}
+    ],
+    "Job_3": [
+      {"machine": 1, "start": 75, "end": 152},
+      {"machine": 0, "start": 217, "end": 272},
+      {"machine": 4, "start": 369, "end": 448},
+      {"machine": 2, "start": 448, "end": 514},
+      {"machine": 3, "start": 514, "end": 591}
+    ],
+    "Job_4": [
+      {"machine": 0, "start": 21, "end": 104},
+      {"machine": 3, "start": 138, "end": 172},
+      {"machine": 2, "start": 172, "end": 236},
+      {"machine": 1, "start": 406, "end": 425},
+      {"machine": 4, "start": 629, "end": 666}
+    ],
+    "Job_5": [
+      {"machine": 1, "start": 0, "end": 54},
+      {"machine": 2, "start": 54, "end": 97},
+      {"machine": 4, "start": 170, "end": 249},
+      {"machine": 0, "start": 272, "end": 364},
+      {"machine": 3, "start": 423, "end": 485}
+    ],
+    "Job_6": [
+      {"machine": 3, "start": 0, "end": 69},
+      {"machine": 4, "start": 77, "end": 154},
+      {"machine": 1, "start": 154, "end": 241},
+      {"machine": 2, "start": 294, "end": 381},
+      {"machine": 0, "start": 381, "end": 474}
+    ],
+    "Job_7": [
+      {"machine": 2, "start": 0, "end": 38},
+      {"machine": 0, "start": 157, "end": 217},
+      {"machine": 1, "start": 290, "end": 331},
+      {"machine": 3, "start": 399, "end": 423},
+      {"machine": 4, "start": 546, "end": 629}
+    ],
+    "Job_8": [
+      {"machine": 3, "start": 121, "end": 138},
+      {"machine": 1, "start": 241, "end": 290},
+      {"machine": 4, "start": 344, "end": 369},
+      {"machine": 0, "start": 474, "end": 518},
+      {"machine": 2, "start": 518, "end": 616}
+    ],
+    "Job_9": [
+      {"machine": 4, "start": 0, "end": 77},
+      {"machine": 3, "start": 172, "end": 251},
+      {"machine": 2, "start": 251, "end": 294},
+      {"machine": 1, "start": 331, "end": 406},
+      {"machine": 0, "start": 518, "end": 614}
+    ]
+  }
+}
